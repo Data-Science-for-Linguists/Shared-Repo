@@ -6,5 +6,6 @@ Let's use this file to test-run simultaneous editing of a text file and ensuing 
 - Tigers are fierce.
 - Red pandas are adorable. 
 - Penguins are cool.
+- Turtles are slow.
 
 

@@ -9,9 +9,12 @@ Let's use this file to test-run simultaneous editing of a text file and ensuing 
 - Penguins are cool.
 - Red pandas are adorable.
 - Penguins are cool.
+- Ravens are smart
 - Turtles are slow.
 - Crocodiles are scary.
 - Bees are busy.
+- Hedgehogs can float.
+- monkeys are fun
 - monkeys are fun
 - Panthers are lit.
 - Horses are awesome

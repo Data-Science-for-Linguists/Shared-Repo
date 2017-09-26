@@ -8,3 +8,4 @@ We will use this repo to practice _true collaboration_, which involves everyone 
 
 - The tutorial uses `nano` as the text editor. Replace it with your own text editor: `notepad++`, `atom`, etc. 
 
+- Editing the `corpus_tools_list.md` is part of [To-do #7](http://www.pitt.edu/~naraehan/ling1340/todo.html#todo7). Make sure you follow instructions.  

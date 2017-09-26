@@ -4,5 +4,8 @@ Let's use this file to test-run simultaneous editing of a text file and ensuing 
 
 - Pandas are cute.
 - Tigers are fierce.
+- Red pandas are adorable. 
+
+
 
 

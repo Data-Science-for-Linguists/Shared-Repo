@@ -9,3 +9,4 @@ Let's use this file to test-run simultaneous editing of a text file and ensuing 
 - Crocodiles are scary.
 - Bees are busy.
 - monkeys are fun
+- Horses are awesome

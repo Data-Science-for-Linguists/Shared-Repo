@@ -4,6 +4,8 @@ Let's use this file to test-run simultaneous editing of a text file and ensuing 
 
 - Pandas are cute.
 - Tigers are fierce.
-- Horses are awesome.
 - Red pandas are adorable.
 - Penguins are cool.
+- Crocodiles are scary.
+- Bees are busy.
+- monkeys are fun

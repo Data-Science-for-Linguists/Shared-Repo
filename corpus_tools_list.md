@@ -29,3 +29,4 @@
 | --------- | :-----------: | ------- |
 | [AntConc Concordancer](http://www.laurenceanthony.net/software/antconc/) | free | A freeware corpus analysis toolkit for concordancing and text analysis |
 | [Free CLAWS WWW tagger](http://ucrel.lancs.ac.uk/claws/trial.html) | free | A free web tagging service with access to the latest version of the tagger, CLAWS4. You can choose to have output in either the smaller C5 tagset or the larger C7 tagset. |
+| [Praat](http://www.fon.hum.uva.nl/praat/download_win.html) | free | A free software for analyzing speech, specifically phonetics. | 

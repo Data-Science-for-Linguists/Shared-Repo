@@ -10,7 +10,7 @@
 | --------- | :-----------: | ------- |
 | [The British National Corpus](http://www.natcorp.ox.ac.uk/) | online or purchase | 100 million word collection of samples of written and spoken language from multiple sources, designed to represent a wide cross-section of British English from the late 20th century |
 | [BNC Baby](http://www.natcorp.ox.ac.uk/corpus/babyinfo.html) | purchase | "Baby" version of the BNC. Contains BNC sampler and Brown corpus. |
-| [International Corpus of English (ICE)](http://www.ucl.ac.uk/english-usage/projects/ice.htm) | freely downloadable | One million-word corpora of a number of national or regional varieties of English. Grammatically analyzed and annotated.|
+| [International Corpus of English (ICE)](http://www.ucl.ac.uk/english-usage/projects/ice.htm) | mostly freely downloadable | One million-word corpora of a number of national or regional varieties of English. Grammatically analyzed and annotated.|
 
 
 ## Additional corpora

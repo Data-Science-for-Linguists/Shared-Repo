@@ -13,7 +13,7 @@
 | [TIMIT Acoustic-Phonetic Continuous Speech Corpus](https://catalog.ldc.upenn.edu/ldc93s1)|purchase| Audio recordings of 630 American English speakers of 8 different dialects reading phonetically rich sentences. |
 | [International Corpus of English (ICE)](http://www.ucl.ac.uk/english-usage/projects/ice.htm) | mostly freely downloadable | One million-word corpora of a number of national or regional varieties of English. Grammatically analyzed and annotated.|
 |[The Corpus of Historical American English (COHA)](https://corpus.byu.edu/coha/)| Free, but after 15-20 searches, registration required | The largest corpus of historical English, containing more than 400 million words of text of American English from 1810-2009. In particular, you can search language change through genres and time, such as from informal to more formal speech and writing. |
-| [COCA- The Corpus of Contemporary American English](https://corpus.byu.edu/coca/)| free online | A very large and well balanced corpus of American English. It contains 520 million words and is divided equally into spoken words, fiction, magazines, newspapers, and academic texts.||
+| [The Corpus of Contemporary American English (COCA)](https://corpus.byu.edu/coca/)| free online | A very large and well balanced corpus of American English. It contains 520 million words and is divided equally into spoken words, fiction, magazines, newspapers, and academic texts.||
 
 
 ## Additional corpora

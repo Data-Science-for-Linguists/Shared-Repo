@@ -20,6 +20,7 @@
 | --------- | :-----------: | ------- |
 |[Tagged and Cleaned Wikipedia and its Ngram](http://nlp.cs.nyu.edu/wikipedia-data/) | freely downloadable | A static version (html documents) of the English Wikipedia, downloaded in 2008. Tagged and cleaned, includes n-grams. |
 |[The Full Reddit Submission Corpus](https://www.reddit.com/r/datasets/comments/3mg812/full_reddit_submission_corpus_now_available_2006/) | freely downloadable | All publicly available Reddit submissions from January 2006 - August 31, 2015 - over 1.7 billion comments. JSON objects tagged with comment, score, author, and other fields|
+|[Most Popular Baby Names by Sex and Mother's Ethnic Group, New York City](https://catalog.data.gov/dataset/most-popular-baby-names-by-sex-and-mothers-ethnic-group-new-york-city-8c742)| freely downloadable | Most popular baby names organized by the race of the mother in NYC from 2013. |
 
 
 ## Tools and software

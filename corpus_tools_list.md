@@ -23,7 +23,7 @@
 |[The Full Reddit Submission Corpus](https://www.reddit.com/r/datasets/comments/3mg812/full_reddit_submission_corpus_now_available_2006/) | freely downloadable | All publicly available Reddit submissions from January 2006 - August 31, 2015 - over 1.7 billion comments. JSON objects tagged with comment, score, author, and other fields|
 |[Most Popular Baby Names by Sex and Mother's Ethnic Group, New York City](https://catalog.data.gov/dataset/most-popular-baby-names-by-sex-and-mothers-ethnic-group-new-york-city-8c742)| freely downloadable | Most popular baby names organized by the race of the mother in NYC from 2013. |
 |[Yelp Dataset Challenge](https://www.yelp.com/dataset/challenge) | freely downloadable | Opportunity for students to conduct research and analysis of yelp review data. You can win one of ten awards for $5000. Reviews are categorized in business, reviews, user, check in, and tip. |
-
+|[Cornell NLVR](http://lic.nlp.cornell.edu/nlvr/)| freely downloadable | Cornell Natural Language Visual Reasoning dataset of natural language statements grounded in synthetic images. |
 
 ## Tools and software
 
@@ -34,3 +34,4 @@
 | [Praat](http://www.fon.hum.uva.nl/praat/download_win.html) | free | A free software for analyzing speech, specifically phonetics. |
 | [Linger](http://tedlab.mit.edu/~dr/Linger/) | free | Software for computerized experiment design, data collection, analysis, and provides millisecond reaction time recording for reading times. Download comes with several sample experiment designs, such as self-paced reading, masked priming, speak-listen-answer, and lexical decision. Using non-English languages also possible. Also a verb that means to dwell in contemplation, thought, or enjoyment. |
 | [Higgins Annotation Tool](http://www.speech.kth.se/hat/) | free | Software used to segment, annotate, and transcribe audio files as you listen to them. |
+| [Spacy](https://spacy.io/) | free | Python package similar to NLTK for natural language processing, only faster, more versatile, and up to date! |

@@ -33,4 +33,4 @@
 | [Free CLAWS WWW tagger](http://ucrel.lancs.ac.uk/claws/trial.html) | free | A free web tagging service with access to the latest version of the tagger, CLAWS4. You can choose to have output in either the smaller C5 tagset or the larger C7 tagset. |
 | [Praat](http://www.fon.hum.uva.nl/praat/download_win.html) | free | A free software for analyzing speech, specifically phonetics. |
 | [Linger](http://tedlab.mit.edu/~dr/Linger/) | free | Software for computerized experiment design, data collection, analysis, and provides millisecond reaction time recording for reading times. Download comes with several sample experiment designs, such as self-paced reading, masked priming, speak-listen-answer, and lexical decision. Using non-English languages also possible. Also a verb that means to dwell in contemplation, thought, or enjoyment. |
-| [Higgins Annotation Tool] | free | Software used to segment, annotate, and transcribe audio files as you listen to them. |
+| [Higgins Annotation Tool](http://www.speech.kth.se/hat/) | free | Software used to segment, annotate, and transcribe audio files as you listen to them. |

@@ -15,4 +15,4 @@ Let's use this file to test-run simultaneous editing of a text file and ensuing 
 - monkeys are fun
 - Panthers are lit.
 - Horses are awesome
-- Chinchillas are soft.
+- Dogs are the best.

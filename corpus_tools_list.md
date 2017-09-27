@@ -15,7 +15,7 @@
 |[The Corpus of Historical American English (COHA)](https://corpus.byu.edu/coha/)| Free, but after 15-20 searches, registration required | The largest corpus of historical English, containing more than 400 million words of text of American English from 1810-2009. In particular, you can search language change through genres and time, such as from informal to more formal speech and writing. |
 | [The Corpus of Contemporary American English (COCA)](https://corpus.byu.edu/coca/)| free online | A very large and well balanced corpus of American English. It contains 520 million words and is divided equally into spoken words, fiction, magazines, newspapers, and academic texts.||
 | [Freiburg Brown corpus (FROWN) ](http://www.helsinki.fi/varieng/CoRD/corpora/FROWN/)| free online | Update to the famous Brown Corpus. Similar in composition and size, except it represents the language of the 1990s. ||
-
+| [The Brown Corpus](http://www.helsinki.fi/varieng/CoRD/corpora/BROWN/) | Available online | An American English corpus over 1 million words large. Divided into 15 categories. Limited to texts printed in 1961 |
 
 ## Additional corpora
 
@@ -27,6 +27,7 @@
 |[Yelp Dataset Challenge](https://www.yelp.com/dataset/challenge) | freely downloadable | Opportunity for students to conduct research and analysis of yelp review data. You can win one of ten awards for $5000. Reviews are categorized in business, reviews, user, check in, and tip. |
 |[Cornell NLVR](http://lic.nlp.cornell.edu/nlvr/)| freely downloadable | Cornell Natural Language Visual Reasoning dataset of natural language statements grounded in synthetic images. |
 |[Ubuntu Chat Corpus (UCC)](http://daviduthus.org/UCC/)| freely downloadable | A corpus composed of chat logs from Ubuntu's Internet Relay Chat technical support channels. The chats are labelled HAQ (human answerable) or BAQ (bot answerable) meaning the question can be answered with a simple fact. |
+| [The WestburyLab USENET corpus](https://aws.amazon.com/datasets/the-westburylab-usenet-corpus/) | Freely Downloadable | A corpus of anonymized postings from English language newsgroups between 2005 and 2010. Cleaned of emails and URLs. Documents are between 500 and 500,000 words long.
 
 
 ## Tools and software
@@ -39,3 +40,4 @@
 | [Linger](http://tedlab.mit.edu/~dr/Linger/) | free | Software for computerized experiment design, data collection, analysis, and provides millisecond reaction time recording for reading times. Download comes with several sample experiment designs, such as self-paced reading, masked priming, speak-listen-answer, and lexical decision. Using non-English languages also possible. Also a verb that means to dwell in contemplation, thought, or enjoyment. |
 | [Higgins Annotation Tool](http://www.speech.kth.se/hat/) | free | Software used to segment, annotate, and transcribe audio files as you listen to them. |
 | [Spacy](https://spacy.io/) | free | Python package similar to NLTK for natural language processing, only faster, more versatile, and up to date! |
+| [LanguageWare](https://www-01.ibm.com/marketing/iwm/tnd/demo.jsp?id=IBM+LanguageWare+Resource+Workbench) | Free Trial | Java libraries allowing for NLP functions including language identification, tokenization, and semantic analysis. |

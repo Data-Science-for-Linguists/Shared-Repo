@@ -24,6 +24,7 @@
 |[The Full Reddit Submission Corpus](https://www.reddit.com/r/datasets/comments/3mg812/full_reddit_submission_corpus_now_available_2006/) | freely downloadable | All publicly available Reddit submissions from January 2006 - August 31, 2015 - over 1.7 billion comments. JSON objects tagged with comment, score, author, and other fields|
 |[Most Popular Baby Names by Sex and Mother's Ethnic Group, New York City](https://catalog.data.gov/dataset/most-popular-baby-names-by-sex-and-mothers-ethnic-group-new-york-city-8c742)| freely downloadable | Most popular baby names organized by the race of the mother in NYC from 2013. |
 |[Yelp Dataset Challenge](https://www.yelp.com/dataset/challenge) | freely downloadable | Opportunity for students to conduct research and analysis of yelp review data. You can win one of ten awards for $5000. Reviews are categorized in business, reviews, user, check in, and tip. |
+|[Ubuntu Chat Corpus (UCC)](http://daviduthus.org/UCC/)| freely downloadable | A corpus composed of chat logs from Ubuntu's Internet Relay Chat technical support channels. The chats are labelled HAQ (human answerable) or BAQ (bot answerable) meaning the question can be answered with a simple fact. |
 
 
 ## Tools and software

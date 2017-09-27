@@ -13,6 +13,7 @@
 | [TIMIT Acoustic-Phonetic Continuous Speech Corpus](https://catalog.ldc.upenn.edu/ldc93s1)|purchase| Audio recordings of 630 American English speakers of 8 different dialects reading phonetically rich sentences. |
 | [International Corpus of English (ICE)](http://www.ucl.ac.uk/english-usage/projects/ice.htm) | mostly freely downloadable | One million-word corpora of a number of national or regional varieties of English. Grammatically analyzed and annotated.|
 |[The Corpus of Historical American English (COHA)](https://corpus.byu.edu/coha/)| Free, but after 15-20 searches, registration required | The largest corpus of historical English, containing more than 400 million words of text of American English from 1810-2009. In particular, you can search language change through genres and time, such as from informal to more formal speech and writing. |
+| [The Corpus of Contemporary American English (COCA)](https://corpus.byu.edu/coca/)| free online | A very large and well balanced corpus of American English. It contains 520 million words and is divided equally into spoken words, fiction, magazines, newspapers, and academic texts.||
 
 
 ## Additional corpora
@@ -24,6 +25,8 @@
 |[Most Popular Baby Names by Sex and Mother's Ethnic Group, New York City](https://catalog.data.gov/dataset/most-popular-baby-names-by-sex-and-mothers-ethnic-group-new-york-city-8c742)| freely downloadable | Most popular baby names organized by the race of the mother in NYC from 2013. |
 |[Yelp Dataset Challenge](https://www.yelp.com/dataset/challenge) | freely downloadable | Opportunity for students to conduct research and analysis of yelp review data. You can win one of ten awards for $5000. Reviews are categorized in business, reviews, user, check in, and tip. |
 |[Cornell NLVR](http://lic.nlp.cornell.edu/nlvr/)| freely downloadable | Cornell Natural Language Visual Reasoning dataset of natural language statements grounded in synthetic images. |
+|[Ubuntu Chat Corpus (UCC)](http://daviduthus.org/UCC/)| freely downloadable | A corpus composed of chat logs from Ubuntu's Internet Relay Chat technical support channels. The chats are labelled HAQ (human answerable) or BAQ (bot answerable) meaning the question can be answered with a simple fact. |
+
 
 ## Tools and software
 

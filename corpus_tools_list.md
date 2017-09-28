@@ -18,6 +18,7 @@
 | [The Brown Corpus](http://www.helsinki.fi/varieng/CoRD/corpora/BROWN/) | Available online | An American English corpus over 1 million words large. Divided into 15 categories. Limited to texts printed in 1961 |
 |[The Michigan Corpus of Academic Spoken English](https://quod.lib.umich.edu/cgi/c/corpus/corpus?page=home;c=micase;cc=micase)|Available Online|A corpus of academic spoken English as recorded at the University of Michigan. The corpus was collected between 1997 and 2002. It contains ~200 hours of recordings, and approximately 1.8 million words.||
 |[The Buckeye Corpus of Conversational Speech](http://buckeyecorpus.osu.edu)| The corpus is free for non-commercial use, but a license agreement needs to be filled out and submitted as well as other pieces of information for registration.| A corpus of speech recordings of 40 speakers in Columbus OH conversing freely with the interviewer. The audio and text files are stored in a format that is used with speech analysis software.|
+|[Lancaster-Oslo-Bergen Corpus (LOB)](http://clu.uni.no/icame/manuals/LOB/INDEX.HTM)|The corpus is not free.  It is part of the International Computer Archive of Modern English (ICAME) and researchers are able to by access to the corpus through ICAME.|The link to the corpus given in Greis & Newman is now dead, the above link is to the corpus manual.  LOB is intended to be a British English conterpart to the Brown Corpus.  It contains 500  printed texts (about 1 million words).|
 
 ## Additional corpora
 
@@ -32,6 +33,7 @@
 | [The WestburyLab USENET corpus](https://aws.amazon.com/datasets/the-westburylab-usenet-corpus/) | Freely Downloadable | A corpus of anonymized postings from English language newsgroups between 2005 and 2010. Cleaned of emails and URLs. Documents are between 500 and 500,000 words long.
 |[TIME Magazine Corpus of American English](https://corpus.byu.edu/time/)|Available Online|A corpus of American English as documented in issues of TIME Magazine. The corpus takes ~100 million words from 275,000 TIME Magazine articles.||
 |[The Speech Accent Archive](http://accent.gmu.edu/index.php) | Available Online | A corpus composed of speech samples from many different languages and many different backgrounds. It contains voice recordings of speakers who are both native and non-native English speakers, a transcription of what they are saying, as well as a phonetic transcription of what they said.|
+|[The Collins Corpus](https://collins.co.uk/page/The+Collins+Corpus?) | Available Online for Fee | An analytical database containing 4.5 billion words collected from websites, newspapers, magazines and books. |
 
 ## Tools and software
 
@@ -46,3 +48,4 @@
 | [LanguageWare](https://www-01.ibm.com/marketing/iwm/tnd/demo.jsp?id=IBM+LanguageWare+Resource+Workbench) | Free Trial | Java libraries allowing for NLP functions including language identification, tokenization, and semantic analysis. |
 |[JusText](http://corpus.tools/wiki/Justext)|Free|HTML Boilerplate remover. Automatically removes elements of HTML that are not text, such as links, images, HTML tags, headers, etc.|
 |[SpiderLing](http://corpus.tools/wiki/SpiderLing) | Free | Software used to obtain text from webpages useful for the building of text corpora. The software combs over text and excludes things such as links and lists of products that aren't necessarily valuable to building text corpora. |
+|[TreeTagger](http://www.ims.uni-stuttgart.de/forschung/ressourcen/werkzeuge/treetagger.html) in German | Free for research, education and evaluation. | Used for annotating text with part-of-speech and lemma information |

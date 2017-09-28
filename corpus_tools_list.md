@@ -14,7 +14,7 @@
 | [International Corpus of English (ICE)](http://www.ucl.ac.uk/english-usage/projects/ice.htm) | mostly freely downloadable | One million-word corpora of a number of national or regional varieties of English. Grammatically analyzed and annotated.|
 |[The Corpus of Historical American English (COHA)](https://corpus.byu.edu/coha/)| Free, but after 15-20 searches, registration required | The largest corpus of historical English, containing more than 400 million words of text of American English from 1810-2009. In particular, you can search language change through genres and time, such as from informal to more formal speech and writing. |
 | [The Corpus of Contemporary American English (COCA)](https://corpus.byu.edu/coca/)| free online | A very large and well balanced corpus of American English. It contains 520 million words and is divided equally into spoken words, fiction, magazines, newspapers, and academic texts.||
-| [Freiburg Brown corpus (FROWN) ](http://www.helsinki.fi/varieng/CoRD/corpora/FROWN/)| free online | Update to the famous Brown Corpus. Similar in composition and size, except it represents the language of the 1990s. ||
+| [Freiburg Brown corpus (FROWN) ](http://www.helsinki.fi/varieng/CoRD/corpora/FROWN/)| free online | Similar in composition and size to the Brown Corpus, except it represents the language of the 1990s.Like the original Brown and LOB corpora, Frown contains 500 texts of around 2000 words each, distributed across 15 text categories, 9 informative and 6 imaginative.||
 
 
 ## Additional corpora

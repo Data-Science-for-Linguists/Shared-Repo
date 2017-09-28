@@ -20,7 +20,7 @@
 |[The Buckeye Corpus of Conversational Speech](http://buckeyecorpus.osu.edu)| The corpus is free for non-commercial use, but a license agreement needs to be filled out and submitted as well as other pieces of information for registration.| A corpus of speech recordings of 40 speakers in Columbus OH conversing freely with the interviewer. The audio and text files are stored in a format that is used with speech analysis software.|
 |[Lancaster-Oslo-Bergen Corpus (LOB)](http://clu.uni.no/icame/manuals/LOB/INDEX.HTM)|The corpus is not free.  It is part of the International Computer Archive of Modern English (ICAME) and researchers are able to by access to the corpus through ICAME.|The link to the corpus given in Greis & Newman is now dead, the above link is to the corpus manual.  LOB is intended to be a British English conterpart to the Brown Corpus.  It contains 500  printed texts (about 1 million words).|
 |[TalkBank](http://talkbank.org)|Available Online (some sections require membership)|A multi-lingual corpus with sub-corpora focusing on the following: child language, second language acquisition, aphasia, dementia, conversation analysis, and sociolinguistics|
-
+|[Project Gutenberg](http://gutenberg.org)|Available Online| Freely available collection of over 54,000 books, especially English literature in the public domain.|
 
 ## Additional corpora
 
@@ -37,7 +37,7 @@
 |[The Speech Accent Archive](http://accent.gmu.edu/index.php) | Available Online | A corpus composed of speech samples from many different languages and many different backgrounds. It contains voice recordings of speakers who are both native and non-native English speakers, a transcription of what they are saying, as well as a phonetic transcription of what they said.|
 |[The Collins Corpus](https://collins.co.uk/page/The+Collins+Corpus?) | Available Online for Fee | An analytical database containing 4.5 billion words collected from websites, newspapers, magazines and books. |
 |[Australian National Corpus](https://www.ausnc.org.au) | Available Online (Some corpora may have restricted access) |A corpus of Australian English text, transcriptions, audio, and audio-visual material|
-
+|[Europarl Corpus](http://www.statmt.org/europarl/)| Freely Downloadable| Parallel corpus in 21 European languages extracted from the proceedings of the European Parliament 1996-2011|
 
 ## Tools and software
 

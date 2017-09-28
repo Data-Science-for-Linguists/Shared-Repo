@@ -21,6 +21,7 @@
 |[Lancaster-Oslo-Bergen Corpus (LOB)](http://clu.uni.no/icame/manuals/LOB/INDEX.HTM)|The corpus is not free.  It is part of the International Computer Archive of Modern English (ICAME) and researchers are able to by access to the corpus through ICAME.|The link to the corpus given in Greis & Newman is now dead, the above link is to the corpus manual.  LOB is intended to be a British English conterpart to the Brown Corpus.  It contains 500  printed texts (about 1 million words).|
 |[TalkBank](http://talkbank.org)|Available Online (some sections require membership)|A multi-lingual corpus with sub-corpora focusing on the following: child language, second language acquisition, aphasia, dementia, conversation analysis, and sociolinguistics|
 |[Project Gutenberg](http://gutenberg.org)|Available Online| Freely available collection of over 54,000 books, especially English literature in the public domain.|
+|[Compleat Lexical Tutor (sic)](https://lextutor.ca)|Available Online| Useful set of tools that include BNC, COCA, and BNC-COCA tools for analyzing frequency of words in texts. It also contains concordancing programs in both French and English. This is one of the most useful tools on the web for ESL text profiling.|
 
 ## Additional corpora
 

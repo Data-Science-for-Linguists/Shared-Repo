@@ -36,7 +36,7 @@
 |[TIME Magazine Corpus of American English](https://corpus.byu.edu/time/)|Available Online|A corpus of American English as documented in issues of TIME Magazine. The corpus takes ~100 million words from 275,000 TIME Magazine articles.||
 |[The Speech Accent Archive](http://accent.gmu.edu/index.php) | Available Online | A corpus composed of speech samples from many different languages and many different backgrounds. It contains voice recordings of speakers who are both native and non-native English speakers, a transcription of what they are saying, as well as a phonetic transcription of what they said.|
 |[The Collins Corpus](https://collins.co.uk/page/The+Collins+Corpus?) | Available Online for Fee | An analytical database containing 4.5 billion words collected from websites, newspapers, magazines and books. |
-|[Australian National Coruus](https://www.ausnc.org.au) | Available Online (Some corpora may have restricted access) |A corpus of Australian English text, transcriptions, audio, and audio-visual material|
+|[Australian National Corpus](https://www.ausnc.org.au) | Available Online (Some corpora may have restricted access) |A corpus of Australian English text, transcriptions, audio, and audio-visual material|
 
 
 ## Tools and software

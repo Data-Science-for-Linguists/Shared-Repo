@@ -21,6 +21,7 @@
 |[Lancaster-Oslo-Bergen Corpus (LOB)](http://clu.uni.no/icame/manuals/LOB/INDEX.HTM)|The corpus is not free.  It is part of the International Computer Archive of Modern English (ICAME) and researchers are able to by access to the corpus through ICAME.|The link to the corpus given in Greis & Newman is now dead, the above link is to the corpus manual.  LOB is intended to be a British English conterpart to the Brown Corpus.  It contains 500  printed texts (about 1 million words).|
 |[TalkBank](http://talkbank.org)|Available Online (some sections require membership)|A multi-lingual corpus with sub-corpora focusing on the following: child language, second language acquisition, aphasia, dementia, conversation analysis, and sociolinguistics|
 |[Project Gutenberg](http://gutenberg.org)|Available Online| Freely available collection of over 54,000 books, especially English literature in the public domain.|
+|[The Uppsala Student English Corpus (USE)](http://ota.ox.ac.uk/desc/2457)|Free under Creative Commons license (see site for details)|The USE contains approximately 1500 essays written by 440 Swedish university students of English, many were in their first full-term of study at the time. There are over 1.2 million words in the corpus, and the essays have an average length of 820 words.|
 >>>>>>> 8405e6d397da63b1483c4597f160aef30881b9b0
 
 ## Additional corpora
@@ -39,6 +40,7 @@
 |[The Collins Corpus](https://collins.co.uk/page/The+Collins+Corpus?) | Available Online for Fee | An analytical database containing 4.5 billion words collected from websites, newspapers, magazines and books. |
 |[Australian National Corpus](https://www.ausnc.org.au) | Available Online (Some corpora may have restricted access) |A corpus of Australian English text, transcriptions, audio, and audio-visual material|
 |[Europarl Corpus](http://www.statmt.org/europarl/)| Freely Downloadable| Parallel corpus in 21 European languages extracted from the proceedings of the European Parliament 1996-2011|
+|[El corpus del español (BYU)](http://www.corpusdelespanol.org)|Free samples available, full data can be purchased|Divided into 2 parts, the corpus contains both historical and genre-based data (~100 million words) as well as dialectal variations collected from web resources (~2 billion words).|
 
 ## Tools and software
 
@@ -57,3 +59,4 @@
 |[Unitok](http://corpus.tools/wiki/Unitok) | Free | Software that splits text into tokens. Recognizes abbreviations. Recognizes URLs, e-mail addresses, etc. Preserves XML tags. Adds glue tags between tokens not separated by space. |
 |[Compleat Lexical Tutor (sic)](https://lextutor.ca)|Available Online| Free useful set of web-based analysis tools that include BNC, COCA, and BNC-COCA tools for analyzing frequency bands of words in texts, TTR ratios, and so on. It also contains concordancing programs in both French and English. This is one of the most useful tools on the web for ESL text profiling.|
 |[Text Inspector](http://textinspector.com)|Available Online| Free lexcial profiling (D, TTR, T-units, etc.) for texts up to 500 words long. If longer texts are included, you can pay a modest subscription via credit card. Very handy for groups of shorter texts. The site makes good reference to the lexical diversity literature.|
+|[TAPoR Collection](http://tapor.ca/home)|Varies|Not one resource, but many for studying textual information ranging from NLP and visualization to social media analysis and annotation.|

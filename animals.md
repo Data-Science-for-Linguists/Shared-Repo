@@ -1,10 +1,18 @@
 # Our favorite animals
 
-Let's use this file to test-run simultaneous editing of a text file and ensuing merge conflicts. 
+Let's use this file to test-run simultaneous editing of a text file and ensuing merge conflicts.
 
 - Pandas are cute.
 - Tigers are fierce.
-- Red pandas are adorable. 
+- Flamboyant Cuttlefish are out of this world!
+- Red pandas are adorable.
 - Penguins are cool.
-
-
+- Ravens are smart
+- Turtles are slow.
+- Crocodiles are scary.
+- Bees are busy.
+- Hedgehogs can float.
+- monkeys are fun
+- Panthers are lit.
+- Horses are awesome
+- Dogs are the best.

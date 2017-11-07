@@ -13,3 +13,11 @@ https://github.com/Data-Science-for-Linguists/2016-Election-Project
 - You might want to take a look at the sentiment intensity analyzer (it is an nltk function)
   - from nltk.sentiment.vader import SentimentIntensityAnalyzer
   - while this won't help you with your specific goal, it might be an interesting thing to take a look at in general.  
+
+#### Kyle's Visit
+##### 11/6/2017
+- Your project is really interesting and easy to follow
+- The NER Tree is one of the coolest things that I didn't even know existed in Python! I will definitely want to use that in the future!
+- All of your files are well laid out and comprehensive
+- I honestly can't think of anything that I would add to this because your data collection and formatting was so thorough
+  - Perhaps you might want to list what all the parts of speech the NER Tree is showing are just in case somebody who isn't familiar with the annotation (this is probably unnecessary though due to the fact that mostly linguists will see the data)

@@ -6,7 +6,7 @@ The project can be found at https://github.com/Data-Science-for-Linguists/projec
 
 
 ### Dan's Visit, 11/6/2017
-#### Something you learned from their project
+#### Something you learned 
   - I've never seen a Chinese dataset before. Very cool!
   - I didn't know about `pd.merge`, which will definitely come in handy.
 

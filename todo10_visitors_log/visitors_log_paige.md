@@ -15,7 +15,7 @@ https://github.com/Data-Science-for-Linguists/2016-Election-Project
   - while this won't help you with your specific goal, it might be an interesting thing to take a look at in general.  
 
 #### Kyle's Visit
-##### 11/6/2017
+##### 11/7/2017
 - Your project is really interesting and easy to follow
 - The NER Tree is one of the coolest things that I didn't even know existed in Python! I will definitely want to use that in the future!
 - All of your files are well laid out and comprehensive

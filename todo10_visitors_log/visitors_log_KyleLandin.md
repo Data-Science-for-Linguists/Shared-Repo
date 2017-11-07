@@ -13,3 +13,8 @@ The project can be found at https://github.com/Data-Science-for-Linguists/projec
 #### Something else that came to your mind.
   - To further verify that you've made the dataframe correctly, maybe you can use some kind of API to convert pinyin to characters or vice versa?
   - When you have 全国 -> quan2guo2, what do the 2s mean?
+
+
+### Katherine's visit, 11/7/2017
+This seems like a really interesting (and intricate) data set, and I think that trying to combine all of the information into one data frame could be really useful. 
+It seemed that you were almost ready to start analyzing the data, but you weren't really sure where to start. My first thought was using the different topics in your corpus. You could select some categories that you think would have some important differences, and look into how exactly they differ (e.g. are certain words more common in specific contexts?). For example, news reports are probably a lot more formal than articles about hobbies and humor, so you could try to pick categories that would let you look at differences between formal and informal writing.

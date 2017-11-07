@@ -11,3 +11,11 @@ Check out my document clustering project [here](https://github.com/Data-Science-
 *Something else that came to my mind.*  
 -	Looks like an ambitious project!  
 -	For English teachers with poor coding skills (like me), adding a bit more descriptive prose to your coding would be very helpful. Perhaps it’s not necessary for most people who will see it though.  
+
+** Chris's Visit Nov 7 2017**
+
+*Something I learned*
+- I learned from your code how to go about scraping and organizing your data using bs4 and requests librariies
+
+*Something that came to mind*
+- The visuals in your clustering.ipynb look awesome, looking forward to the final result and analysis  

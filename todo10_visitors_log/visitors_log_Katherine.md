@@ -12,3 +12,11 @@ https://github.com/Data-Science-for-Linguists/Native_and_Non-native_English
 
 #### Something else that came to your mind.
   - Can you train a binary classifier for native vs non-native speakers? That could be interesting. You could feed in features that you mention like average utterance length, common words, bigrams, stop words, etc. Might give some insight into what is better at distinguishing between native and non-native speakers!
+
+
+### Chris's Visit Nov 7 2017
+#### Something I learned
+  - You gain a lot of insight into your data by taking statistics and then analyzing it in the context of your data, finding new info and writing code to address issues your run into. That's a practice I need to get better at doing
+
+#### Something that came to mind
+  - Your ipynb files are beautifully annotated with analysis and code!

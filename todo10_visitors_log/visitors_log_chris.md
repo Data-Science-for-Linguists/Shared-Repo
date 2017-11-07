@@ -12,6 +12,7 @@ Here is the link for my [project](https://github.com/Data-Science-for-Linguists/
 -	VADER is an odd name for a sentiment package  
 
 **Alicia's visit - Nov 6, 2017**
+
 *Something I learned from you project:*  
 - The filter for the tokenization was very elegant and impressive. You did a good job of 
 cleaning up your data for your future analysis. I did not think to filter through my texts

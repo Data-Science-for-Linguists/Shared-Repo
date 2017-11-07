@@ -12,4 +12,3 @@ https://github.com/Data-Science-for-Linguists/Native_and_Non-native_English
 
 #### Something else that came to your mind.
   - Can you train a binary classifier for native vs non-native speakers? That could be interesting. You could feed in features that you mention like average utterance length, common words, bigrams, stop words, etc. Might give some insight into what is better at distinguishing between native and non-native speakers!
-  - Or,

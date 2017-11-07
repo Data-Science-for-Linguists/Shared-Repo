@@ -9,7 +9,6 @@ The project can be found at https://github.com/Data-Science-for-Linguists/projec
 #### Something you learned from their project
   - I've never seen a Chinese dataset before. Very cool!
   - I didn't know about `pd.merge`, which will definitely come in handy.
-  -
 
 #### Something else that came to your mind.
   - To further verify that you've made the dataframe correctly, maybe you can use some kind of API to convert pinyin to characters or vice versa?

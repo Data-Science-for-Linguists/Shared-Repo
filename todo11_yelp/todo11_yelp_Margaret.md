@@ -2,6 +2,7 @@
 
 ### Set up
 - We used data from the yelp challenge, however we only really worked with the review file: review.json: 3.6G: 4736897 reviews.
+
 #### Horrible
 - appeared on 78181 lines
 - seems to indicate low scores

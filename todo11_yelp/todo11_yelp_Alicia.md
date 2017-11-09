@@ -21,6 +21,7 @@ review.json contains 4736897 reviews.
 To find the number of reviews containing a word ("horrible" or "scrumptious"), I used to following code:
 
 $ grep -P "horrible" review.json | wc -l
+
 $ grep -P "scrumptious" review.json | wc -l
 
 

@@ -2,7 +2,7 @@
 
 ## Step 1: Preparation, exploration
 
-1. 
+5.
 ```
 rw-r--r-- 1 dan dan 127M Aug 25 18:00 business.json
 -rw-r--r-- 1 dan dan  58M Aug 25 18:04 checkin.json
@@ -11,7 +11,8 @@ rw-r--r-- 1 dan dan 127M Aug 25 18:00 business.json
 -rw-r--r-- 1 dan dan 177M Aug 25 18:06 tip.json
 -rw-r--r-- 1 dan dan 1.5G Aug 25 18:04 user.json
 ```
-6. ```
+6. 
+```
 photos.json keys: caption, photo_id, business_id, label
 review.json keys: funny, user_id, review_id, text, business_id, stars, date, useful, cool
 business.json keys: city, neighborhood, name, business_id, longitude, hours, state, postal_code, categories, stars, address, latitude, review_count, attributes, is_open
@@ -19,11 +20,13 @@ tip.json keys: date, text, user_id, likes, business_id
 checkin.json keys: business_id, time
 user.json keys: yelping_since, useful, compliment_photos, compliment_list, compliment_funny, funny, review_count, friends, fans, compliment_note, compliment_plain, compliment_writer, compliment_cute, average_stars, user_id, compliment_more, elite, compliment_hot, cool, name, compliment_profile, compliment_cool
 ```
-7. ```
+7.
+```
 $ wc -l review.json
 4736897 review.json
 ```
-8. ```
+8.
+```
 $ grep 'horrible' review.json | wc -l
 78181
 ```

@@ -59,7 +59,7 @@ for df in parts:
 print(wfreq.most_common(20))
 
 ```
-to use chunksize makes it much more manageable. Though it took a while, I was able to read all of `review.json` into the dataframe and produce the top 20 words:
+to use `chunksize` makes it much more manageable. Though it took a while, I was able to read all of `review.json` and produce the top 20 words:
 ```
 $ python process_reviews.py review.json
 [('the', 22108652), ('and', 17929876), ('I', 13709652), ('a', 13378568), ('to', 12840088), ('was', 9248521), ('of', 7767234), ('is', 6412057), ('for', 6067512), ('in', 5665929), ('The', 4677120), ('it', 4639074), ('with', 4270917), ('that', 4204770), ('my', 4167027), ('but', 3618753), ('on', 3516987), ('you', 3357511), ('have', 3273060), ('this', 3153958)]

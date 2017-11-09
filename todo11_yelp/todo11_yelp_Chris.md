@@ -39,3 +39,6 @@ The data is organized into JSON files, which look like dictionaries with key:val
 
 #### How many lines of data can your system reasonably handle?
 My computer was able to handle 1,000,000 in 2m, 42.24s.
+
+#### What sorts of resources would it take to successfully process this dataset in its entirety and through more computationally demanding processes? What considerations are needed?
+Lots of RAM would need to be available in order to manage such a large amount of data, as well as hard disk space if the data set is to constant grow larger. Some considerations needed in processing such a large data set is the kinds of operations being performed, and if they can be performed simultaneously. Also minimizing context switching into the OS will decrease time considerably. Also a dedicated computer for processing this data would be best so that the CPU need not switch between processes that are unrelated to the script.

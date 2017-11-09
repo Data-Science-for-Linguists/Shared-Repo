@@ -17,3 +17,7 @@
 - I usually have lots of things running on my computer so I first tried without closing anything and could only get to about 150,000 before it got too slow to continue with only about 15% idle space.
 - After closing nearly every program I had running I was about to get to 450,000 before I had about 17% idle space remaining so I quit trying.
 - I noticed that there would be a peak and then it would go down again and then would have another shorter peak, however if you couldn't make it over the initial peak nothing would work, the measurements above are taken at that first peak point.
+
+### Questions
+What sorts of resources would it take to successfully process this dataset in its entirety and through more computationally demanding processes? What considerations are needed?
+- in order to process this dataset in its entirety, we would need a computer with much more memory (RAM) than the ones we have at our fingertips. 

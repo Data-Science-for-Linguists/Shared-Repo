@@ -2,7 +2,8 @@
 
 ## Step 1: Preparation, exploration
 
-5. ```
+1. 
+```
 rw-r--r-- 1 dan dan 127M Aug 25 18:00 business.json
 -rw-r--r-- 1 dan dan  58M Aug 25 18:04 checkin.json
 -rw-r--r-- 1 dan dan  24M Aug 25 17:57 photos.json

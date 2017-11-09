@@ -11,7 +11,7 @@ rw-r--r-- 1 dan dan 127M Aug 25 18:00 business.json
 -rw-r--r-- 1 dan dan 177M Aug 25 18:06 tip.json
 -rw-r--r-- 1 dan dan 1.5G Aug 25 18:04 user.json
 ```
-6. 
+6. While `head` printed out a few lines, using python, we can read 1 line from each file and grab the keys used.
 ```
 photos.json keys: caption, photo_id, business_id, label
 review.json keys: funny, user_id, review_id, text, business_id, stars, date, useful, cool

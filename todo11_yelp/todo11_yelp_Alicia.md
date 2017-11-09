@@ -25,24 +25,15 @@ $ grep -P "horrible" review.json | wc -l
 $ grep -P "scrumptious" review.json | wc -l
 
 
-Lines containing "horrible":
-78181
-
-Using head, I noticed that most of of the top couple reviews had low stars, with only 1 star. I did see one high star of 4.
+There are 78181 lines containing "horrible." Using head, I noticed that most of of the top couple reviews had low stars, with only 1 star. I did see one high star of 4.
 
 
-Lines containing "scrumptious":
-6558
+There are 6558 lines containing "scrumptious." Scrumptious is indicative of high scores. I saw lots of 5s, some 4s, and a 3.
 
-Scrumptious is indicative of high scores. I saw lots of 5s, some 4s, and a 3.
 
 ## Step 2
 
-Space: 204/238 GB
-
-Memory: 53-54%
-
-Processor: 7.87 GB usable
+My computer has used 204/238 GB and is working at about 53-54% memory. For my processor, there are 7.87/8.0 GB available.
 
 
 In modifying FOO.json, I discovered that about 125K lines is my limit. I was able to look at 125K lines but not at 150K lines.

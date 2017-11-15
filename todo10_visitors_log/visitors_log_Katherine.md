@@ -20,3 +20,11 @@ https://github.com/Data-Science-for-Linguists/Native_and_Non-native_English
 
 #### Something that came to mind
   - Your ipynb files are beautifully annotated with analysis and code!
+
+
+### Ben's Visit Nov 15, 2017  
+#### Something I learned  
+    - Very interesting project and I love how clearly annotated your code is - it's not often that I can follow along! I especially liked your use of initial starter functions to quickly collect the info you wanted - this is something I need to do more of in order to boost efficiency. The comparison of stop word usage is also interesting, especially the spoken fillers by native speakers like 'yeah'. I think I read somewhere that 'I think' and 'yeah so' are the two most common bigrams in the spoken BNC.
+
+#### Something that came to mind  
+    -  Related to the above, it would be interesting to somehow separate at all the typically spoken fillers like 'yeah', 'oh', 'er', etc. and compare between the two groups.

@@ -19,3 +19,5 @@ Check out my document clustering project [here](https://github.com/Data-Science-
 
 *Something that came to mind*
 - The visuals in your clustering.ipynb look awesome, looking forward to the final result and analysis  
+
+** Alicia's visit - Nov 15, 2017**

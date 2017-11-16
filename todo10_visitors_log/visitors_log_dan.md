@@ -6,7 +6,7 @@ Check out my document clustering project [here](https://github.com/Data-Science-
 - 	I didn't previously know how to make the clustering diagram, and also it was interesting how you read in the data files of the wiki articles.
 
 *Something that came to mind*
-- 	
+- 	The visualization is good, but I recommend adding a markdown cell to explain what the clustering does and maybe a key for what the colors symbolize.
 
 
 **Ben's visit - Nov 6, 2017**  

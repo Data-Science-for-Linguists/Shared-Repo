@@ -1,10 +1,17 @@
 # Dan's Visitor Log
 Check out my document clustering project [here](https://github.com/Data-Science-for-Linguists/dan_project)
 
+** Alicia's visit - Nov 15, 2017**
+*Something I learned from your project:*  
+- 	I didn't previously know how to make the clustering diagram, and also it was interesting how you read in the data files of the wiki articles.
+
+*Something that came to mind*
+- 	
+
 
 **Ben's visit - Nov 6, 2017**  
 
-*Something I learned from you project:*  
+*Something I learned from your project:*  
 -	‘Measuring semantic distances’ sounds like something I should know about, but in reality I’m ignorant other than the general concept. I will be very interested to see how this gets measured and would love to ‘borrow’ the code for my own future projects if possible.  
 -	How to read-in and use json files – very useful  
 
@@ -20,4 +27,3 @@ Check out my document clustering project [here](https://github.com/Data-Science-
 *Something that came to mind*
 - The visuals in your clustering.ipynb look awesome, looking forward to the final result and analysis  
 
-** Alicia's visit - Nov 15, 2017**

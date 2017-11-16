@@ -34,5 +34,6 @@ https://github.com/Data-Science-for-Linguists/Native_and_Non-native_English
 	- We both are extracting speaker information and texts for our projects, but the original formats of our data are very different. That said, your methods are succint and clear. I often end up using for loops, so looking at your project's code is very beneficial for me to see other methods of extracting speaker information and text.	
 	
 #### Something that came to mind
-	- I would recommend updating your project plan so that it is more definitive.
+	- project_plan.md: I would recommend updating your project plan so that it is more definitive. This will make you sound more confident to anyone who reads about your project.
+	- LICENSE.md: You have information about what you would like to do for your license, but your LICENSE.md is still empty. It sounds like you know what you want to do so you could formally write up your license.
 	- Your use of markdown cells for headings and information is very helpful and makes the code more organized!

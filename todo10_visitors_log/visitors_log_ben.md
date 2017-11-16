@@ -10,10 +10,16 @@ Reading through your goals I wasn't sure what your goal with the bigrams you are
 
 ## Alicia Sigmon
 
-1. I had never seen anything about Pointwise Mutual Information before, and it seems very helpful! 
+1. I had never seen anything about Pointwise Mutual Information before, and it seems very helpful!
 You use a lot of analysis techniques that seem very sophistocated, and I think your project will turn out very well.
 
 
-2. Your plan and process are very thorough and well organized, making your project easier to follow and understand! 
+2. Your plan and process are very thorough and well organized, making your project easier to follow and understand!
 The markdown cells throughout your code helped a lot.
 I would double check your user_df dataframe, because it is currently full of mostly NaN values.
+
+### Paige visited on 11/16
+
+1. I really like how your project plan is organized, and how you labelled your revised plan and dated it. It's super clear and straightforward. I also think looking at lexical bundles is a really cool way to analyze this dataset. Like Andrew said, your search function looks really helpful.
+
+2. Your cleanup really made the dataset easier to understand! For example when I looked at your first dataframes I was thinking "...what is Arabic German?". Your simple clean up techniques (changing to Arabic;German) helped with understanding.

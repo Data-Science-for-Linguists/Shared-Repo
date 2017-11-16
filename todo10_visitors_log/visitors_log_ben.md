@@ -23,3 +23,7 @@ I would double check your user_df dataframe, because it is currently full of mos
 1. I really like how your project plan is organized, and how you labelled your revised plan and dated it. It's super clear and straightforward. I also think looking at lexical bundles is a really cool way to analyze this dataset. Like Andrew said, your search function looks really helpful.
 
 2. Your cleanup really made the dataset easier to understand! For example when I looked at your first dataframes I was thinking "...what is Arabic German?". Your simple clean up techniques (changing to Arabic;German) helped with understanding.
+
+## Rob Corbett visited on 11/16
+
+Very well organized and easy to follow.  Dataframes looks nice, the data set looks like it comes with a lot of attributes (I think you said 29 columns in user_df?)  

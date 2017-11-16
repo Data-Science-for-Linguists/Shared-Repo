@@ -14,3 +14,9 @@ One of your goals is to determine which group is interrupted most in your corpus
 1. This is a cool idea! I like that you've made predictions as to how multiple people involved in the conversation will perform and that you are including the gender data in your analysis.
 
 2. I'm assuming you're going to analyze "funniness" by the [laughter] in the transcripts, but I wasn't quite clear on how interruptions were annotated in the data, so you could maybe describe how you plan to do that more? Other than that your project is very clear.
+
+## Rob Corbett vistited on 11/16
+
+I like the idea for the project.  It would be interesting to see how someone might control a conversation.  Examining how many utterances a speakers has and how many times they interrupt or are interrupted by another speaker would be interesting.
+
+Your dataframes look nice and well organized.

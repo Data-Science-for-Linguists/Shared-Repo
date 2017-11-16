@@ -1,4 +1,4 @@
-# Chris Visitors Log
+ # Chris Visitors Log
 Here is the link for my [project](https://github.com/Data-Science-for-Linguists/lagunilla_ling1340_project)
 
 ---
@@ -19,6 +19,12 @@ cleaning up your data for your future analysis. I did not think to filter throug
 like this, and I think it is a helpful technique for tokenization.
 
 *Something else that came to mind:*  
+
 - I didn't see anywhere how often people were mentioned or if some people were mentioned significantly more times than others.
 I'm not sure if this is necessary for your data, and also references to people might not be written exactly the same way, so I'm not sure 
 if it'd even be possible to compile that information for this project.
+
+** Andrew's Visit - 11/16 **
+- It's cool to see your using NLTK's SenimentAnalyzer, I'm considering using it for my project and it's helpful to see what you've done with it. What is the COM value that your Analyzer finds? I may try using this package in my project.
+
+- It might be helpful to find a way to break down the sentiment analysis process. You say the values don't seem quite right. If there is a way to see how the analyzer is working, it might help get you the scores you desire.

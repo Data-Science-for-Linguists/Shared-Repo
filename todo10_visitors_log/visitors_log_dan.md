@@ -28,3 +28,8 @@ Check out my document clustering project [here](https://github.com/Data-Science-
 *Something that came to mind*
 - The visuals in your clustering.ipynb look awesome, looking forward to the final result and analysis  
 
+** Andrew's Visit - 11/16 **
+
+- My project is currently under the MIT license, but after reading your License Notes, I may make the switch to a GNU GPLv3 license as well.
+
+- Looking at your clustering notebook, it's nice to see a plot to show it working. It might be nice to add some markdown cells that explain the meaning of the clusters.

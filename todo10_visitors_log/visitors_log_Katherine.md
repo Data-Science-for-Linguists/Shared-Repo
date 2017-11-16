@@ -35,3 +35,4 @@ https://github.com/Data-Science-for-Linguists/Native_and_Non-native_English
 	
 #### Something that came to mind
 	- I would recommend updating your project plan so that it is more definitive.
+	- Your use of markdown cells for headings and information is very helpful and makes the code more organized!

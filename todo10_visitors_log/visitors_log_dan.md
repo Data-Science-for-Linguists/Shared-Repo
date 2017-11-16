@@ -1,7 +1,7 @@
 # Dan's Visitor Log
 Check out my document clustering project [here](https://github.com/Data-Science-for-Linguists/dan_project)
 
-** Alicia's visit - Nov 15, 2017**
+**Alicia's visit - Nov 15, 2017**
 
 *Something I learned from your project:*  
 - 	I didn't previously know how to make the clustering diagram, and also it was interesting how you read in the data files of the wiki articles.

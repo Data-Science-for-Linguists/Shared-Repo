@@ -21,3 +21,8 @@ https://github.com/Data-Science-for-Linguists/2016-Election-Project
 - All of your files are well laid out and comprehensive
 - I honestly can't think of anything that I would add to this because your data collection and formatting was so thorough
   - Perhaps you might want to list what all the parts of speech the NER Tree is showing are just in case somebody who isn't familiar with the annotation (this is probably unnecessary though due to the fact that mostly linguists will see the data)
+
+#### Katherine's Visit
+##### 11/16/2017
+- It looks like you put a lot of work into building the NER tree, and it seems like a really useful tool. It looks like a great way to organize a lot of useful information, though it also seems error-prone, especially when it has to deal with proper nouns. You pointed out several instances in your files when it didn't handle peoples' titles correctly. I also noticed some odd entries in your set of people names (e.g. "Lake Erie", "Espanol").
+- Though it isn't directly related to your goal, you might want to look into using machine learning. A lot of politicians seem to have their own "talking points" that they repeat frequently, so it would be interesting to see if any machine learning algorithms could pick up on them. 

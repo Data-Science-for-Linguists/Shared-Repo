@@ -14,3 +14,14 @@ I think that looking more into the different neologisms could be interesting. If
 - One thought from me is that under the neologisms you might want to also include things like 'kitty', 'doggy', 'kitten', or 'puppy'
    - If there's time, you might also want to try adding adjectives to the hashtags like FunnyCat or something like that. I feel like a lot of cat pictures or videos that are funny cat videos
 - Please update the README
+
+
+### Dan's Visit
+#### 11/16/2017
+#### Something you learned
+  - I like the exploded view pie charts!
+  - Nice work with tweepy!
+
+#### Something else that came to your mind.
+  - Is it possible that this data can change throughout the day?
+  - Since you're making a search and only taking 1000 of the most recent items, it might be interesting to re-run this at different points. Or, you could scrape much larger dataset and work with that.

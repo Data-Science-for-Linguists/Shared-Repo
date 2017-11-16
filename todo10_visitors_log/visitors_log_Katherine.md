@@ -28,3 +28,10 @@ https://github.com/Data-Science-for-Linguists/Native_and_Non-native_English
 
 #### Something that came to mind  
     -  Related to the above, it would be interesting to somehow separate at all the typically spoken fillers like 'yeah', 'oh', 'er', etc. and compare between the two groups.
+
+### Alicia's Visit Nov 15, 2017
+#### Something I learned
+	- We both are extracting speaker information and texts for our projects, but the original formats of our data are very different. That said, your methods are succint and clear. I often end up using for loops, so looking at your project's code is very beneficial for me to see other methods of extracting speaker information and text.	
+	
+#### Something that came to mind
+	- I would recommend updating your project plan so that it is more definitive.

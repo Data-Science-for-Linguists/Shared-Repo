@@ -38,3 +38,13 @@ https://github.com/Data-Science-for-Linguists/2016-Election-Project
 #### Something else that came to your mind.
   - Some of the outputs are a bit long.
   - When you say you're going to "see if there is a difference in the way females and males are referred to", will this entail building a model to classify if a referral is female or male? Interested in what your next steps are.
+
+#### Ben's Visit  
+##### 11/16/2017  
+#### Something you learned  
+- Sensible ways of using pipeline to save time in later data analysis
+- Very interesting trees that seem to be leading in the right direction.
+
+#### Something else that came to your mind.
+- Be careful of flashing the full output (which I do) - it looks fine in jupyter but is huge in the github view
+- Can't wait for the analysis of any name calling!

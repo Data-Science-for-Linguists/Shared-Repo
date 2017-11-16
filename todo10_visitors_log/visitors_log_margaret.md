@@ -25,3 +25,14 @@ I think that looking more into the different neologisms could be interesting. If
 #### Something else that came to your mind.
   - Is it possible that this data can change throughout the day?
   - Since you're making a search and only taking 1000 of the most recent items, it might be interesting to re-run this at different points. Or, you could scrape much larger dataset and work with that.
+
+
+### Ben's Visit  
+#### 11/16/2017  
+#### Something you learned  
+- I'm an old man so I had no idea about 'toebeans'!
+- Nice use of plots and tweepy - I need to add visualizations
+
+#### Something else that came to your mind  
+- I was surprised by differences between retweets and likes in terms of numbers and also how they differed between cats and dogs
+- Although the results look significant, perhaps you could so some simple statistical analyses to confirm your findings, for example Chi Square (which I believe is part of math module)

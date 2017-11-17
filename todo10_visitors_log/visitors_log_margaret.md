@@ -36,3 +36,11 @@ I think that looking more into the different neologisms could be interesting. If
 #### Something else that came to your mind  
 - I was surprised by differences between retweets and likes in terms of numbers and also how they differed between cats and dogs
 - Although the results look significant, perhaps you could so some simple statistical analyses to confirm your findings, for example Chi Square (which I believe is part of math module)
+
+
+### Chris's Visit 11/16/2017
+#### Something I learned
+	- You have really awesome visualizations working for your data, and it's cool that your actively pulling the latest data from Twitter so your data is not static
+
+#### Something That Came To Mind
+	- Perhaps maybe there can be some way to automate the downloading of data from Twitter to get equal samples of tweets from different areas throughout the day? It looks like its being done manually at the moment so  including automation could be interesting!!

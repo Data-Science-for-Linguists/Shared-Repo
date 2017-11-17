@@ -25,3 +25,10 @@ It seemed that you were almost ready to start analyzing the data, but you weren'
 
 #### Something that came to mind  
     -  It is beyond the scope of our class project, but it would be great to also have a couple more columns - English meaning of the words, and the IPA script as Pinyin is only somewhat phonetic despite its intentions.
+
+### Chris's Visit 11/16/2017
+#### Something I learned
+	- I never used BeautifulSoup before, so seeing that being done was really interesting 
+
+#### Something that came to mind
+	- Since you said in your project plan that your corpus is similar to the FLOB and FROWN corpus, perhaps you could look further into some comparisons between Chinese and English using your data?

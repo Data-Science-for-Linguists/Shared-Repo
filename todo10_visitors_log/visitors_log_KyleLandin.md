@@ -35,8 +35,12 @@ It seemed that you were almost ready to start analyzing the data, but you weren'
 
 ### Alicia's Visit 11/19/17
 #### Something I learned:
-	- 
+	- The pd.mmerge was a very useful command that I would not have thought of using!
+		- see my last "something that came to mind" bullet
 #### Something that came to mind:
 	- Your README.txt and project_report.md were very helpful at giving a good overview of the project and why the work matters!
 	- Your beautifulSoup_Practice.ipynb currently runs into an error at the 10th block.
-	
+	- LCMC_Testing.ipynb: 
+		- I would recommend not printing the entire read in file - it makes your file larger, less efficient, and harder to read.
+			- It took a noticeably longer amount of time for me to open this file than any other's I've opened.
+		- I think you should add markdown cells and comments to explain what your cells are doing. Your LCMC_Testing.ipynb will much easier to read.

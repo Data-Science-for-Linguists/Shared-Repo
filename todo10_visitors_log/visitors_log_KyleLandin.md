@@ -32,3 +32,9 @@ It seemed that you were almost ready to start analyzing the data, but you weren'
 
 #### Something that came to mind
 	- Since you said in your project plan that your corpus is similar to the FLOB and FROWN corpus, perhaps you could look further into some comparisons between Chinese and English using your data?
+
+### Alicia's Visit 11/19/17
+#### Something I learned:
+	- 
+#### Something that came to mind:
+	- 

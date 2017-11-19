@@ -37,4 +37,4 @@ It seemed that you were almost ready to start analyzing the data, but you weren'
 #### Something I learned:
 	- 
 #### Something that came to mind:
-	- 
+	- Your README.txt and project_report.md were very helpful at giving a good overview of the project and why the work matters!

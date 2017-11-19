@@ -44,3 +44,14 @@ I think that looking more into the different neologisms could be interesting. If
 
 #### Something That Came To Mind
 	- Perhaps maybe there can be some way to automate the downloading of data from Twitter to get equal samples of tweets from different areas throughout the day? It looks like its being done manually at the moment so  including automation could be interesting!!
+
+### Alicia's Visit 11/19/2017
+#### Something I learned:
+- kitteh and toe bean are tags for cats! I learned a lot from your project about people's posts about cats and dogs - I'd never thought to compare these!
+#### Something that came to mind:
+- This project idea is interesting! I've heard of doggo and doge, but I've never heard of kitteh or toe beans.
+- You're doing some really cool analyses! 
+	- I was not surprised to see that dogs were mentioned more than cats, but I was really surprised that the number of retweets for cats was so much higher. 
+	- That said, later in the analysis, it sounds like dogs are retweated more and cats favorited more? Was this because you removed NULL time zones?
+		- How do you intend to compare these different numbers of mean rt. and mean fav? What do you think it means that there is such a difference when you take out NULL value time zones?
+- The summary markdown cells for cats and dogs were very helpful!!

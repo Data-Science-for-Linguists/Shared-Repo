@@ -33,3 +33,11 @@ Check out my document clustering project [here](https://github.com/Data-Science-
 - My project is currently under the MIT license, but after reading your License Notes, I may make the switch to a GNU GPLv3 license as well.
 
 - Looking at your clustering notebook, it's nice to see a plot to show it working. It might be nice to add some markdown cells that explain the meaning of the clusters.
+
+**Paige's Visit - 11/20**
+
+*Something I learned*
+- Your cluster visualization is really cool! gensim's keywords method is also super nifty. I'll have to try that out!
+
+*Something that came to mind*
+- Your repo has lots of great stuff in there, but it seems like it could be a little hard to find what you're looking for in it because it looks like you still have old code and data in there from an older version of your project plan. If you wanted, it might help with presentation a bit if in your README you gave a small description of your notebooks, your data folders, what that pickle file contains, etc.

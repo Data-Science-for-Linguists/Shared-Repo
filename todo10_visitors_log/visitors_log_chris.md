@@ -34,3 +34,7 @@ if it'd even be possible to compile that information for this project.
 
 - You have your own system that works well, but if you wanted you could try out NLTK's Named Entity Recognition chunker! It's what I used to pull out the people in my data.
 - I like the format of your project plan!
+
+**Rob's Vistit 11/21
+- I'm going to have to look at VADER, it sounds like it could have some tools I would like to use.
+

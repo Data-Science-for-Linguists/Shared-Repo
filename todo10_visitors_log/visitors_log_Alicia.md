@@ -20,3 +20,7 @@ One of your goals is to determine which group is interrupted most in your corpus
 I like the idea for the project.  It would be interesting to see how someone might control a conversation.  Examining how many utterances a speakers has and how many times they interrupt or are interrupted by another speaker would be interesting.
 
 Your dataframes look nice and well organized.
+
+#### Katherine's Visit, 11/21/2017
+- I thought that you did a really good job organizing your data frames. I think that the data that I'm working with is somewhat similar to yours, so it was good to see other ways to organize and present spoken data/conversations.
+- I don't really know anything about discourse analysis, so I feel that I don't have many suggestions I can make. I think that using the roles of the speakers as a basis for comparison is a great idea, though. Maybe you could see how the conversations change when certain people are participating. For example, you could see if the conversations differ when callers are involved. Does the conversation become more informal, or more friendly/light-hearted (indicated by nonverbal cues, like laughter) when callers are brought onto these shows?

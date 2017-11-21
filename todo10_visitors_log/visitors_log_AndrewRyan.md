@@ -12,3 +12,8 @@ This is a really interesting project!
 #### Katherine's visit, 11/21/2017
 - I didn't know that there were corpora of comments from livestream games. It's an interesting concept!
 - I also thought that, as far as analysis goes, you had some really great ideas. Sentiment analysis could be really interesting, especially if you're planning on seeing how users' sentiments change over time. If possible, another thing you could potentially do is see if opinions of the games affect how frequently users play them. Do people who initially write negative comments give the game a chance and continue playing (this could maybe be measured by how often they comment after their initial comments), or do they stop using it immediately? Are these stats different for different games?
+
+#### Margaret's visit, 11/21/2017
+- This is a really interesting topic!
+- I agree with Katherine that sentiment analysis would be a good addition to your project. You already have a lot of good ideas with how you're dealing with your data, but I think that would make a great addition if you're not planning on it already.
+- I'm curious as to how long in generally takes for someone to "warm-up" to a game on twitch... how do you plan on measuring that?

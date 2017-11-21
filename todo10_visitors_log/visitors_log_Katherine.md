@@ -37,3 +37,8 @@ https://github.com/Data-Science-for-Linguists/Native_and_Non-native_English
 	- project_plan.md: I would recommend updating your project plan so that it is more definitive. This will make you sound more confident to anyone who reads about your project.
 	- LICENSE.md: You have information about what you would like to do for your license, but your LICENSE.md is still empty. It sounds like you know what you want to do so you could formally write up your license.
 	- Your use of markdown cells for headings and information is very helpful and makes the code more organized!
+
+** Andrew's Visit Nov 20th **
+I noticed when looking through the exploring_VOICE file that an overwhelming number of speakers in your dataset are English speakers (American and Great Britain). How do you plan to factor that in when doing analysis between native and non-native English speakers?
+
+I think the analysis your doing on stop words is interesting. Have you considered expanding it to look at other lexical items?

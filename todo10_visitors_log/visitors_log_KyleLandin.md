@@ -44,3 +44,8 @@ It seemed that you were almost ready to start analyzing the data, but you weren'
 		- I would recommend not printing the entire read in file - it makes your file larger, less efficient, and harder to read.
 			- It took a noticeably longer amount of time for me to open this file than any other's I've opened.
 		- I think you should add markdown cells and comments to explain what your cells are doing. Your LCMC_Testing.ipynb will much easier to read.
+
+** Andrew's Visit Nov 20th **
+I was having trouble loading your Jupyter notebook for a while. I believe it's because the file size is fairly large. You flashed a lot of data on the screen, and on Github, this makes the file difficult to look through.
+
+Have you decided on what your analysis will be on yet? It might be interesting to see how the different categories like Popular_Lore and News_Editorial would compare.

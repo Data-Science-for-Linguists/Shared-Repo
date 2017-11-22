@@ -17,3 +17,9 @@ This is a really interesting project!
 - This is a really interesting topic!
 - I agree with Katherine that sentiment analysis would be a good addition to your project. You already have a lot of good ideas with how you're dealing with your data, but I think that would make a great addition if you're not planning on it already.
 - I'm curious as to how long in generally takes for someone to "warm-up" to a game on twitch... how do you plan on measuring that?
+
+#### Dan's visit, 11/22/2017
+*Something I learned from your project:*  
+- The twitch data is very cool. Nice work with pandas!
+*Something that came to mind*
+- Sentiment analysis would be very cool. However, generally I've seen sentiment analysis used to determine just positive, neutral, or negative, so I don't completely understand what you mean by "see how the sentiment of chat changes as a game is played over the course of different streams". This sounds really neat, but I would definitely make sure you have a concrete definition of different types of sentiment when you do this. It sounds like you're looking for much more than just positive/neutral/negative.

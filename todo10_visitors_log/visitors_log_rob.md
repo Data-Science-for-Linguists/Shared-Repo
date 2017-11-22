@@ -11,5 +11,12 @@
 - I think for some of these if you could define a function for it, it would be a lot cleaner. Other than that I think you're looking good.
 
 ##### Katherine's Visit, 11/16/17
-- I think that choosing subreddits that allow you to form larger categories was a good idea. Since one of your categories is more specific (politics) and the other is more general (Android, board games, hockey), it would probably be easiest to compare political discussions to more general discussions. Political discussions can get particularly heated, so there are probably a lot of differences between them and other topics. I've also noticed that conversations about professional sports can get pretty intense, too, so it could be interesting to see if the hockey subreddit has any similarities with the political ones. 
+- I think that choosing subreddits that allow you to form larger categories was a good idea. Since one of your categories is more specific (politics) and the other is more general (Android, board games, hockey), it would probably be easiest to compare political discussions to more general discussions. Political discussions can get particularly heated, so there are probably a lot of differences between them and other topics. I've also noticed that conversations about professional sports can get pretty intense, too, so it could be interesting to see if the hockey subreddit has any similarities with the political ones.
 - I agree with Margaret that, in the future, you should put repeated code into functions. I think that it would make processing and analyzing the data much less tedious, and the code would be much easier to manage. :)
+
+#### Dan's visit on 11/22/17
+*Something I learned from your project:*  
+- I've never seen reddit data before. Nice work parsing JSON!
+*Something that came to mind*
+- What do you mean when you say you will "build an algorithm that is able to classify future comments". And then do it with machine learning algorithms?
+- It would be interesting to see how well you can classify which subreddit a post was made in! Just make sure to remove duplicates, since some posts can be cross-posted into multiple subreddits.

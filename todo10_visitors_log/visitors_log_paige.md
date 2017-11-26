@@ -48,3 +48,12 @@ https://github.com/Data-Science-for-Linguists/2016-Election-Project
 #### Something else that came to your mind.
 - Be careful of flashing the full output (which I do) - it looks fine in jupyter but is huge in the github view
 - Can't wait for the analysis of any name calling!
+
+#### Chris's Visit 11/26/2017
+#### Something You Learned
+  - Your data is beautifully constructed and organized
+  - It was really cool to see how NER worked in your project as well as your visualizations for your data 
+
+#### Something That Came To Mind
+  - The documentation for each step of your processing is done really well - makes it easy to follow what you are doing and why you need to do it
+  - Some of the tools and libraries that you used might be able to help me out with my own project! 

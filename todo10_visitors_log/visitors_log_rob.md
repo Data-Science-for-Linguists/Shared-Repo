@@ -20,3 +20,7 @@
 *Something that came to mind*
 - What do you mean when you say you will "build an algorithm that is able to classify future comments". And then do it with machine learning algorithms?
 - It would be interesting to see how well you can classify which subreddit a post was made in! Just make sure to remove duplicates, since some posts can be cross-posted into multiple subreddits.
+
+#### Chris's Visit 11/26/2017
+- The data was sorted and organized from reddit really cleanly
+- You said in your code that the data exploration took 5 hours to run, is that each time or is the data stored to make it faster when its run again? Is there a way to optimize how this is done?
